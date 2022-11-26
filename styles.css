@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin: 50px 30px;
+}
+h3{
+    color: white;
+    margin: 50px 30px 20px;
+}
+.error{
+    color: red;
+    margin: 30px;
+}
+.btn{
+    margin: 50px 10px 30px 40px;
+    padding: 10px 20px 10px 20px;
+}
+.ibtn{
+    margin: 50px 10px 30px 40px;
+    padding: 10px 20px 10px 20px;
+}
+#btn{
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+    padding: 10px 20px 10px 20px;
+    margin: 50px 10px 30px 40px;
+}
